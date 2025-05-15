@@ -1,3 +1,3 @@
 # Basic
 
-Whatever i was to learn and know about
+Learning is Life
