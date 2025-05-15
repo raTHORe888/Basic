@@ -1,0 +1,39 @@
+Section 6, Azure Storage, Storage Accounts, Create a Storage Account, https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/
+
+Section 6, Azure Storage, Storage Accounts, Data Redundancy Options, https://docs.microsoft.com/en-us/learn/modules/provide-disaster-recovery-replicate-storage-data/2-evaluate-data-redundancy-options
+
+Section 6, Azure Storage, Storage Accounts, Storage Account Overview, https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview
+
+Section 6, Azure Storage, Conceptualizing Azure Blob Storage, Introducing Azure Blob Storage, https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction
+
+Section 6, Azure Storage, Conceptualizing Azure Blob Storage, What Is Azure Blob Storage?, https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-overview
+
+Section 6, Azure Storage, Configuring Blob Object Replication, Blob Object Replication Overview, https://docs.microsoft.com/en-us/azure/storage/blobs/object-replication-overview
+
+Section 6, Azure Storage, Configuring Blob Object Replication, Configuring Object Replication, https://docs.microsoft.com/en-us/azure/storage/blobs/object-replication-configure?tabs=portal
+
+Section 6, Azure Storage, Configuring Blob Lifecycle Management, Lifecycle Management Concepts, https://docs.microsoft.com/en-us/azure/storage/blobs/storage-lifecycle-management-concepts?tabs=azure-portal
+
+Section 6, Azure Storage, Configuring Azure Files, Use Azure Files to Store and Share, https://docs.microsoft.com/en-us/learn/modules/store-and-share-with-azure-files/
+
+Section 6, Azure Storage, Configuring Azure Files, What Is Azure Files?, https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction
+
+Section 6, Azure Storage, Configuring Azure File Sync, Deploying Azure File Sync, https://docs.microsoft.com/en-us/azure/storage/files/storage-sync-files-deployment-guide?tabs=azure-portal%2Cproactive-portal
+
+Section 6, Azure Storage, Configuring Azure File Sync, Extend On-Premises File Servers with Azure File Sync, https://docs.microsoft.com/en-us/learn/modules/extend-share-capacity-with-azure-file-sync/
+
+Section 6, Azure Storage, Configuring Azure File Sync, Introduction to Azure File Sync, https://docs.microsoft.com/en-us/azure/storage/file-sync/file-sync-introduction
+
+Section 6, Azure Storage, Storage Network Access, Managing Storage Account Network Access, https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/5-control-network-access
+
+Section 6, Azure Storage, Securing Storage Accounts, Securing Storage Accounts, https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/
+
+Section 6, Azure Storage, Using Azure Jobs, Import/Export Jobs, https://docs.microsoft.com/en-us/learn/modules/export-data-with-azure-import-export/
+
+Section 6, Azure Storage, Storage Utilities, AzCopy Utility, https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10
+
+Section 6, Azure Storage, Storage Utilities, Azure Storage Explorer, https://docs.microsoft.com/en-us/learn/modules/upload-download-and-manage-data-with-azure-storage-explorer/
+
+Section 6, Azure Storage, Storage Utilities, Download AzCopy, https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10
+
+Section 6, Azure Storage, Storage Utilities, Download Storage Explorer, https://azure.microsoft.com/en-us/features/storage-explorer/

@@ -1,0 +1,5 @@
+Section 10, Network Traffic Management, Introducing Azure Load Balancer, Introducing Azure Load Balancer, https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/
+
+Section 10, Network Traffic Management, Introducing Azure Load Balancer, Troubleshooting Azure Load Balancer, https://docs.microsoft.com/en-us/learn/modules/troubleshoot-inbound-connectivity-azure-load-balancer/
+
+Section 10, Network Traffic Management, Using Application Gateway, Load Balance with Application Gateway, https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/

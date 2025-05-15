@@ -1,0 +1,7 @@
+Section 5, Role-Based Access Control, Understanding Roles in Azure, Azure AD Roles vs. Azure RBAC Roles, https://docs.microsoft.com/en-us/learn/modules/manage-subscription-access-azure-rbac/
+
+Section 5, Role-Based Access Control, Assigning Access to Resources, Secure Access to Resources with Azure RBAC Roles, https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/
+
+Section 5, Role-Based Access Control, Creating Custom Roles, Creating Custom Roles, https://docs.microsoft.com/en-us/learn/modules/create-custom-azure-roles-with-rbac/
+
+Section 5, Role-Based Access Control, Creating Custom Roles, HelpDeskAdminRole.json, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1625090868410-HelpDeskAdminRole.json

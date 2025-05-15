@@ -1,0 +1,31 @@
+Section 7, Virtual Networking, Conceptualizing Virtual Networks, What is a Virtual Network?, https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
+
+Section 7, Virtual Networking, Creating Virtual Networks, Configuring VNets, https://docs.microsoft.com/en-us/learn/modules/configure-network-for-azure-virtual-machines/
+
+Section 7, Virtual Networking, Creating Virtual Networks, Designing IP Address Schema, https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/
+
+Section 7, Virtual Networking, Creating Virtual Networks, VNet Best Practices, https://docs.microsoft.com/en-us/azure/virtual-network/concepts-and-best-practices
+
+Section 7, Virtual Networking, Deploying Network Resources, Private IPs, https://docs.microsoft.com/en-us/azure/virtual-network/private-ip-addresses
+
+Section 7, Virtual Networking, Deploying Network Resources, Public IPs, https://docs.microsoft.com/en-us/azure/virtual-network/public-ip-addresses
+
+Section 7, Virtual Networking, Deploying Network Resources, Public and Private IP Addressing, https://docs.microsoft.com/en-us/learn/modules/design-ip-addressing-for-azure/
+
+Section 7, Virtual Networking, Routing Virtual Networks, Control Traffic with Routes, https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/
+
+Section 7, Virtual Networking, Network Security Groups (NSGs), NSG Overview, https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview
+
+Section 7, Virtual Networking, Network Security Groups (NSGs), Securing VNets with Network Security Groups, https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/
+
+Section 7, Virtual Networking, Using Azure DNS, Hosting with Azure DNS, https://docs.microsoft.com/en-us/learn/modules/host-domain-azure-dns/
+
+Section 7, Virtual Networking, Using Azure Firewall, Azure Firewall Overview, https://docs.microsoft.com/en-us/azure/firewall/overview
+
+Section 7, Virtual Networking, Using Azure Firewall, Creating Routes for Network Virtual Appliances, https://docs.microsoft.com/en-us/learn/modules/control-network-traffic-flow-with-routes/
+
+Section 7, Virtual Networking, Using Service Endpoints, Securing VNets with Service Endpoints, https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/
+
+Section 7, Virtual Networking, Using Service Endpoints, Service Endpoint Overview, https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview
+
+Section 7, Virtual Networking, Using Private Endpoints, Private Endpoints Overview, https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-overview

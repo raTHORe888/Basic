@@ -1,0 +1,13 @@
+Section 2, Azure Administration, Understanding Azure Resource Manager, Understanding Azure Resource Manager, https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview
+
+Section 2, Azure Administration, Using the Azure Portal and Cloud Shell, Azure Cloud Shell Overview, https://docs.microsoft.com/en-us/azure/cloud-shell/overview
+
+Section 2, Azure Administration, Using the Azure Portal and Cloud Shell, Azure Portal Overview, https://azure.microsoft.com/en-us/features/azure-portal/
+
+Section 2, Azure Administration, Using Azure CLI and PowerShell, Install Azure CLI, https://docs.microsoft.com/en-us/cli/azure/install-azure-cli
+
+Section 2, Azure Administration, Using Azure CLI and PowerShell, Install PowerShell, https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.1
+
+Section 2, Azure Administration, Using ARM Templates, Build VM Template, https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates/
+
+Section 2, Azure Administration, Using ARM Templates, linuxVM.json, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1642643575999-linuxVM.json

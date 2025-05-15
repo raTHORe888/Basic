@@ -1,0 +1,25 @@
+Section 4, Identity, Introduction to Section, What Is Azure Active Directory?, https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/3-what-is-azure-active-directory?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.az-900-describe-identity-governance-privacy-compliance-features
+
+Section 4, Identity, Conceptualizing Azure Active Directory, What Is Azure AD?, https://docs.microsoft.com/en-us/learn/modules/secure-access-azure-identity-services/3-what-is-azure-active-directory?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.az-900-describe-identity-governance-privacy-compliance-features
+
+Section 4, Identity, Managing Tenants, Create an Azure AD Tenant, https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-create-new-tenant
+
+Section 4, Identity, Creating and Managing Users, BulkCreateUsersDemo.csv, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1625091223377-BulkCreateUsersDemo.csv
+
+Section 4, Identity, Creating and Managing Users, Creating Azure Users, https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/
+
+Section 4, Identity, Creating and Managing Users, Managing Azure Users, https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/
+
+Section 4, Identity, Creating and Managing Groups, Creating Groups, https://docs.microsoft.com/en-us/learn/modules/create-users-and-groups-in-azure-active-directory/
+
+Section 4, Identity, Creating and Managing Groups, Managing Groups, https://docs.microsoft.com/en-us/learn/modules/manage-users-and-groups-in-aad/
+
+Section 4, Identity, Creating Administrative Units, Administrative Units Overview, https://docs.microsoft.com/en-us/azure/active-directory/roles/administrative-units
+
+Section 4, Identity, Configuring SSPR, Self-Service Password Reset, https://docs.microsoft.com/en-us/learn/modules/allow-users-reset-their-password/
+
+Section 4, Identity, Azure AD Device Management, Device Management, https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/
+
+Section 4, Identity, Configuring Azure AD Join, Azure AD Join, https://docs.microsoft.com/en-us/learn/modules/manage-device-identity-ad-join/
+
+Section 4, Identity, Configuring Azure AD Join, Join a Device, https://docs.microsoft.com/en-us/azure/active-directory/devices/azuread-joined-devices-frx

@@ -1,0 +1,19 @@
+Section 12, Monitoring, Using Azure Monitor, Design a Monitoring Solution, https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/
+
+Section 12, Monitoring, Using Azure Monitor, Metrics Explorer, https://docs.microsoft.com/en-us/learn/modules/monitor-azure-vm-using-diagnostic-data/
+
+Section 12, Monitoring, Setting Up Alerts and Actions, Alerting and Actions in Azure, https://docs.microsoft.com/en-us/learn/modules/incident-response-with-alerting-on-azure/
+
+Section 12, Monitoring, Configuring Azure Monitor Logs, Azure Monitor Logs, https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/
+
+Section 12, Monitoring, Understanding Monitor Insights, Application Insights, https://docs.microsoft.com/en-us/learn/modules/capture-page-load-times-application-insights/
+
+Section 12, Monitoring, Understanding Monitor Insights, Azure Monitor Insights, https://docs.microsoft.com/en-us/azure/azure-monitor/monitor-reference#insights-and-core-solutions
+
+Section 12, Monitoring, Understanding Monitor Insights, Azure Monitor Overview, https://docs.microsoft.com/en-us/azure/azure-monitor/overview
+
+Section 12, Monitoring, Understanding Monitor Insights, VM Insights, https://docs.microsoft.com/en-us/learn/modules/monitor-performance-using-azure-monitor-for-vms/
+
+Section 12, Monitoring, Configuring Application Insights, Using Application Insights to Capture and View Page Load Times in a Web App, https://docs.microsoft.com/en-us/learn/modules/capture-page-load-times-application-insights/
+
+Section 12, Monitoring, Using Network Watcher, Troubleshooting with Network Watcher, https://docs.microsoft.com/en-us/learn/modules/troubleshoot-azure-network-infrastructure/

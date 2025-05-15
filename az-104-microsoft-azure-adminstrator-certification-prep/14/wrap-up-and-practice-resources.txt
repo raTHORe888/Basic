@@ -1,0 +1,5 @@
+Section 14, Wrap-Up and Practice, Microsoft Learn Conclusion, Exam AZ-104: Microsoft Azure Administrator Registration Link, https://docs.microsoft.com/en-us/learn/certifications/exams/az-104?WT.mc_id=ACloudGuru_Learn_multiple-Cert-wwl
+
+Section 14, Wrap-Up and Practice, Course Conclusion and Next Steps, AZ-204: Developing Solutions for Microsoft Azure Course, https://acloud.guru/overview/az-204-developing-solutions-for-microsoft-azure?_ga=2.257995331.813804500.1625120551-737218096.1597620394
+
+Section 14, Wrap-Up and Practice, Keep Up to Date with Azure This Week, Azure This Week, https://bit.ly/2LzTBgv

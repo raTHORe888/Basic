@@ -1,0 +1,7 @@
+Section 13, Backup and Recovery, Understanding Disaster Recovery, Develop Disaster Recovery Strategy, https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/
+
+Section 13, Backup and Recovery, Configuring Azure Backup, Azure Backup, https://docs.microsoft.com/en-us/learn/modules/protect-virtual-machines-with-azure-backup/
+
+Section 13, Backup and Recovery, Azure Site Recovery, Azure Site Recovery Overview, https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-overview
+
+Section 13, Backup and Recovery, Backup Reports, Configure Azure Backup Reports, https://docs.microsoft.com/en-us/azure/backup/configure-reports

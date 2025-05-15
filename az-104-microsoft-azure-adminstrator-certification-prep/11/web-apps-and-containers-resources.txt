@@ -1,0 +1,61 @@
+Section 11, Web Apps and Containers, Creating an App Service Plan, Create Web App with App Service Plan, https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/
+
+Section 11, Web Apps and Containers, Creating an App Service Plan, Overview of App Service Plans, https://docs.microsoft.com/en-us/azure/app-service/overview-hosting-plans
+
+Section 11, Web Apps and Containers, Creating Web Apps: Part 1, Create a Web App with an App Service Plan, https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/
+
+Section 11, Web Apps and Containers, Creating Web Apps: Part 1, Overview of Azure App Service, https://docs.microsoft.com/en-us/azure/app-service/overview
+
+Section 11, Web Apps and Containers, Creating Web Apps: Part 2, Deploy a .NET Core Web App, https://docs.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=netcore31&pivots=development-environment-vs
+
+Section 11, Web Apps and Containers, Creating Web Apps: Part 2, Deploying Apps with Azure App Service, https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/
+
+Section 11, Web Apps and Containers, Creating Web Apps: Part 2, GitHub Repo, https://github.com/BrentenDovey-ACG/AZ-104_Azure_Administrator/tree/master/AZ-104_Azure_Administrator/10_Web_Apps_and_Containers/Create_Web_Apps_Part2
+
+Section 11, Web Apps and Containers, Creating Web Apps: Part 2, Scaling a Web App, https://docs.microsoft.com/en-us/learn/modules/app-service-scale-up-scale-out/
+
+Section 11, Web Apps and Containers, Creating Web Apps: Part 2, create_webapp_cloudshell.txt, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1619127493597-create_webapp_cloudshell.txt
+
+Section 11, Web Apps and Containers, Configuring Web Apps, Azure App Service Backup, https://docs.microsoft.com/en-us/azure/app-service/manage-backup
+
+Section 11, Web Apps and Containers, Configuring Web Apps, Configure Common App Service Settings, https://docs.microsoft.com/en-us/azure/app-service/configure-common#:~:text=In%20the%20Azure%20portal%2C%20search,in%20in%20Web.
+
+Section 11, Web Apps and Containers, Configuring Web Apps, Configuring Custom Domain with App Service, https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-custom-domain"
+
+Section 11, Web Apps and Containers, Configuring Web Apps, Configuring Deployment Slots, https://docs.microsoft.com/en-us/azure/app-service/deploy-staging-slots
+
+Section 11, Web Apps and Containers, Configuring Web Apps, Scaling Azure App Service, https://docs.microsoft.com/en-us/azure/app-service/manage-scale-up
+
+Section 11, Web Apps and Containers, Configuring Web Apps, Secure Custom Domain on Azure App Service, https://docs.microsoft.com/en-us/azure/app-service/configure-ssl-bindings
+
+Section 11, Web Apps and Containers, Describing Containers in Azure, Creating an Azure Container Registry, https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-portal
+
+Section 11, Web Apps and Containers, Describing Containers in Azure, Docker Containers in Azure, https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/
+
+Section 11, Web Apps and Containers, Describing Containers in Azure, GitHub Repo, https://github.com/BrentenDovey-ACG/AZ-104_Azure_Administrator/tree/master/AZ-104_Azure_Administrator/10_Web_Apps_and_Containers/Describing_Containers_in_Azure
+
+Section 11, Web Apps and Containers, Describing Containers in Azure, Introduction to Docker Containers, https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/
+
+Section 11, Web Apps and Containers, Describing Containers in Azure, What is Azure Container Registry?, https://docs.microsoft.com/en-us/azure/container-registry/container-registry-intro
+
+Section 11, Web Apps and Containers, Describing Containers in Azure, What is a Container?, https://azure.microsoft.com/en-us/overview/what-is-a-container/
+
+Section 11, Web Apps and Containers, Describing Containers in Azure, build_docker_image.txt, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1619127804776-build_docker_image.txt
+
+Section 11, Web Apps and Containers, Using Azure Container Instances for Containers, Demo ARM Template, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1619127973701-azuredeploy.json
+
+Section 11, Web Apps and Containers, Using Azure Container Instances for Containers, Deploy an Azure Container Instance, https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart
+
+Section 11, Web Apps and Containers, Using Azure Container Instances for Containers, Describing Container Groups, https://docs.microsoft.com/en-us/azure/container-instances/container-instances-container-groups
+
+Section 11, Web Apps and Containers, Using Azure Container Instances for Containers, GitHub Repo, https://github.com/BrentenDovey-ACG/AZ-104_Azure_Administrator/tree/master/AZ-104_Azure_Administrator/10_Web_Apps_and_Containers/Using_Azure_Container_Instances_for_Containers
+
+Section 11, Web Apps and Containers, Using Azure Container Instances for Containers, Running Docker Containers in Azure Container Instances (ACI) Service, https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/
+
+Section 11, Web Apps and Containers, Using Azure Container Instances for Containers, What is Azure Container Instances?, https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview
+
+Section 11, Web Apps and Containers, Using Azure Kubernetes Service, Create an AKS Cluster, https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough-portal
+
+Section 11, Web Apps and Containers, Using Azure Kubernetes Service, Introduction to AKS, https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/
+
+Section 11, Web Apps and Containers, Using Azure Kubernetes Service, What is AKS?, https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes

@@ -1,0 +1,9 @@
+Section 8, Intersite Connectivity, Configuring Azure VNet Peering, Peering Virtual Networks, https://docs.microsoft.com/en-us/learn/modules/integrate-vnets-with-vnet-peering/
+
+Section 8, Intersite Connectivity, Implementing VPNs, Azure VPN, https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/
+
+Section 8, Intersite Connectivity, Implementing VPNs (Demonstration), Azure VPN, https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-vpn-gateway/
+
+Section 8, Intersite Connectivity, Configuring ExpressRoute, Implementing ExpressRoute, https://docs.microsoft.com/en-us/learn/modules/connect-on-premises-network-with-expressroute/
+
+Section 8, Intersite Connectivity, Implementing Virtual WAN, What Is Azure Virtual WAN?, https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about

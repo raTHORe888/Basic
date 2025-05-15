@@ -1,0 +1,13 @@
+Section 1, Welcome to the Course, Course Introduction, AZ-104 Study Guide, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1625779495063-AZ-104%20PDF%20%281%29.pdf
+
+Section 1, Welcome to the Course, Course Introduction, Microsoft Certified Certifications Poster, https://aka.ms/TrainCertPoster/
+
+Section 1, Welcome to the Course, About Microsoft Learn, Exam AZ-104: Microsoft Azure Administrator Exam Details, https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+Section 1, Welcome to the Course, About the Training Architect, Follow Me on LinkedIn, https://www.linkedin.com/in/cloudchase/
+
+Section 1, Welcome to the Course, About the Training Architect, Follow Me on Twitter, https://twitter.com/mr_cloudchase?lang=en
+
+Section 1, Welcome to the Course, About the Exam, Exam AZ-104: Microsoft Azure Administrator Exam Details, https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
+
+Section 1, Welcome to the Course, AZ-104 Course Readiness, AZ-900 Course, https://acloudguru.com/course/az-900-microsoft-azure-fundamentals

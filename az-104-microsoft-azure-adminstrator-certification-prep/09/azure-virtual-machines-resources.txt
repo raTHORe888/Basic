@@ -1,0 +1,57 @@
+Section 9, Azure Virtual Machines, Creating and Managing Virtual Machines: Part 1, Creating Virtual Machines, https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/
+
+Section 9, Azure Virtual Machines, Creating and Managing Virtual Machines: Part 1, Linux Virtual Machines, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/overview
+
+Section 9, Azure Virtual Machines, Creating and Managing Virtual Machines: Part 1, Windows Virtual Machines, https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview
+
+Section 9, Azure Virtual Machines, Creating and Managing Virtual Machines: Part 2, Automate VM Configuration Using Cloud Init, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-automate-vm-deployment
+
+Section 9, Azure Virtual Machines, Creating and Managing Virtual Machines: Part 2, Getting Started with Azure Linux VMs, https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-azure/
+
+Section 9, Azure Virtual Machines, Creating and Managing Virtual Machines: Part 2, Getting Started with Azure Windows VMs, https://docs.microsoft.com/en-us/learn/modules/create-windows-virtual-machine-in-azure/
+
+Section 9, Azure Virtual Machines, Creating and Managing Virtual Machines: Part 2, Managing Virtual Machines, https://docs.microsoft.com/en-us/learn/modules/manage-virtual-machines-with-azure-cli/
+
+Section 9, Azure Virtual Machines, Creating and Managing Virtual Machines: Part 2, cloud-init.txt, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1619126742935-cloud-init.txt
+
+Section 9, Azure Virtual Machines, Managing Virtual Machine Disks, Adding Data Disks, https://docs.microsoft.com/en-us/learn/modules/add-and-size-disks-in-azure-virtual-machines/
+
+Section 9, Azure Virtual Machines, Managing Virtual Machine Disks, Overview of Azure Disks, https://docs.microsoft.com/en-us/azure/virtual-machines/managed-disks-overview
+
+Section 9, Azure Virtual Machines, Managing Virtual Machine Disks, Securing Disks, https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-virtual-machine-disks/
+
+Section 9, Azure Virtual Machines, Configuring Virtual Machine Availability and Scale Sets: Part 1, Architecting Reliability, https://docs.microsoft.com/en-us/learn/modules/azure-well-architected-reliability/
+
+Section 9, Azure Virtual Machines, Configuring Virtual Machine Availability and Scale Sets: Part 1, Availability Options for Azure VMs, https://docs.microsoft.com/en-us/azure/virtual-machines/availability
+
+Section 9, Azure Virtual Machines, Configuring Virtual Machine Availability and Scale Sets: Part 1, Defining High Availability, https://docs.microsoft.com/en-us/azure/virtual-machines/workloads/sap/sap-high-availability-architecture-scenarios#:~:text=High%20availability%3A%20Refers%20to%20a,resides%20within%20one%20Azure%20region
+
+Section 9, Azure Virtual Machines, Configuring Virtual Machine Availability and Scale Sets: Part 1, Scalability with Scale Sets, https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/
+
+Section 9, Azure Virtual Machines, Configuring Virtual Machine Availability and Scale Sets: Part 2, Building Scalable Applications, https://docs.microsoft.com/en-us/learn/modules/build-app-with-scale-sets/
+
+Section 9, Azure Virtual Machines, Configuring Virtual Machine Availability and Scale Sets: Part 2, Describing Virtual Machine Scale Sets, https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview?context=/azure/virtual-machines/context/context
+
+Section 9, Azure Virtual Machines, Configuring Virtual Machine Availability and Scale Sets: Part 2, Overview of Autoscaling, https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-autoscale-overview?context=/azure/virtual-machines/context/context
+
+Section 9, Azure Virtual Machines, Automating Virtual Machine Deployments, Automating Virtual Machine Deployments, https://docs.microsoft.com/en-us/azure/virtual-machines/infrastructure-automation
+
+Section 9, Azure Virtual Machines, Automating Virtual Machine Deployments, Creating VMs from VHD templates, https://docs.microsoft.com/en-us/learn/modules/deploy-vms-from-vhd-templates/
+
+Section 9, Azure Virtual Machines, Automating Virtual Machine Deployments, Generalize Linux VM, https://docs.microsoft.com/en-us/azure/virtual-machines/linux/capture-image
+
+Section 9, Azure Virtual Machines, Automating Virtual Machine Deployments, Generalize Windows VM, https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepare-for-upload-vhd-image
+
+Section 9, Azure Virtual Machines, Automating Virtual Machine Deployments, Github Repo, https://github.com/BrentenDovey-ACG/AZ-104_Azure_Administrator/tree/master/AZ-104_Azure_Administrator/09_Azure_Virtual_Machines/Automate_Virtual_Machine_Deployment
+
+Section 9, Azure Virtual Machines, Automating Virtual Machine Deployments, VM ARM Template, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1619127192805-vm_arm_template.json
+
+Section 9, Azure Virtual Machines, Automating Virtual Machine Deployments, generalize_linux_vm.txt, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1619126890417-generalize_linux_vm.txt
+
+Section 9, Azure Virtual Machines, Managing Virtual Machine Updates, Keeping VMs Updated, https://docs.microsoft.com/en-us/learn/modules/keep-your-virtual-machines-updated/
+
+Section 9, Azure Virtual Machines, Automating Virtual Machine Configuration, Azure Automation State Configuration, https://docs.microsoft.com/en-us/learn/modules/protect-vm-settings-with-dsc/
+
+Section 9, Azure Virtual Machines, Automating Virtual Machine Configuration, mydscconfig.txt, https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1635480471334-mydscconfig.txt
+
+Section 9, Azure Virtual Machines, Using Azure Bastion, Connect to VMs with Azure Bastion, https://docs.microsoft.com/en-us/learn/modules/connect-vm-with-azure-bastion/
